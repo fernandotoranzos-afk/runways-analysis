@@ -1,6 +1,9 @@
 # runways-analysis
-Data analysis project using Python and Power BI
- Análisis de Infraestructura Aeroportuaria
+Análisis de Infraestructura Aeroportuaria
+
+Este proyecto analiza las características de pistas de aeropuertos a nivel global con el objetivo de entender cómo varían según su tamaño, longitud y condiciones operativas.
+
+El análisis permite identificar patrones estructurales en la infraestructura aeroportuaria, facilitando la segmentación de pistas y la evaluación de su capacidad operativa.
 Proyecto de análisis de datos enfocado en la exploración y visualización de características de pistas de aeropuertos a nivel global.
 ________________________________________
  Objetivo
